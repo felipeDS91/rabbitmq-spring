@@ -25,10 +25,14 @@
   <a href="https://github.com/FelipeDS91/rabbitmq-spring/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/FelipeDS91/rabbitmq-spring?color=%230484ff">
   </a>
+</p>
 
+<p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>  
+
 </br>
 
 
